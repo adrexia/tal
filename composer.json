@@ -1,5 +1,5 @@
 {
-	"name": "bbc-fmtvp/tal",
+	"name": "bbc-fmtvp-tal/antie",
 	"description": "Library for building applications for Connected TV devices",
 	"license": "Apache 2.0",
 	"type": "silverstripe-module"
