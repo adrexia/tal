@@ -1,0 +1,17 @@
+{
+  "name": "talproject",
+  "description": "talproject",
+  "require": {
+    "bbc-fmtvp/tal": "dev-master"
+  },
+  "config": {
+    "process-timeout": 900
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/fmtvp/tal.git"
+    }
+  ],
+  "minimum-stability": "dev"
+}
