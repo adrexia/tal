@@ -1,17 +1,5 @@
 {
-  "name": "talproject",
-  "description": "talproject",
-  "require": {
-    "bbc-fmtvp/tal": "dev-master"
-  },
-  "config": {
-    "process-timeout": 900
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/fmtvp/tal.git"
-    }
-  ],
-  "minimum-stability": "dev"
+	"name": "bbc-fmtvp/tal",
+	"description": "Library for building applications for Connected TV devices",
+	"license": "Apache 2.0"
 }
